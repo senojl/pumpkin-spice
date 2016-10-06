@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/CreativeAdmin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/pre-dexed/debug/glide-3.7.0_2df08280ad75ab5dcfe5c642517bc6591eac4b9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_67ff2ed0a6015dfa64f388bf8d22d27c664049ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_630f6e75148053abfc13e491ccb53baaf67943a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_316f474cfbfd90818d8a967bd806ec1777a289d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CreativeAdmin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_8d228bef676a1c47e2a5beaec5fa2caba7adb30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_e23f93d8e8a7809cbb5fad2edb369279c6966977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/CreativeAdmin/AndroidStudioProjects/TestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_8d3f88251fda970ec2845a5312f00a2503644994.jar" />
+    </item>
+
+</items>

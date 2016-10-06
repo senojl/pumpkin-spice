@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pumpkin Spice</string>
+    <string name="pumpkin_spice">Pumpkin pie spice is an American spice mix commonly used as an ingredient in pumpkin pie, similar to the British and Commonwealth mixed spice. It is generally a blend of powdered cinnamon, nutmeg, ginger, cloves, and sometimes allspice. It can also be used as a seasoning in general cooking.</string>
+    <string name="pumpkin_spice_recipe">18 parts ground cinnamon</string>
+    <string name="pumpkin_spice_recipe_two">4 parts ground nutmeg</string>
+    <string name="pumpkin_spice_recipe_three">4 parts ground ginger</string>
+    <string name="pumpkin_spice_recipe_four">3 parts ground cloves</string>
+    <string name="pumpkin_spice_recipe_five">3 parts ground allspice</string>
+</resources>

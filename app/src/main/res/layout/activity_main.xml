@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    tools:context="com.example.creativeadmin.testapp.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/pump_spice_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="48dp"
+            android:text="@string/pumpkin_spice_recipe"
+            android:textColor="@color/colorPrimaryDark"/>
+
+        <TextView
+            android:id="@+id/pump_spice_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="48dp"
+            android:paddingTop="24dp"
+            android:text="@string/pumpkin_spice_recipe_two"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_below="@+id/pump_spice_one"/>
+
+        <TextView
+            android:id="@+id/pump_spice_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="48dp"
+            android:paddingTop="24dp"
+            android:text="@string/pumpkin_spice_recipe_three"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_below="@+id/pump_spice_two"/>
+
+        <TextView
+            android:id="@+id/pump_spice_four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="48dp"
+            android:paddingTop="24dp"
+            android:text="@string/pumpkin_spice_recipe_four"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_below="@+id/pump_spice_three"/>
+
+        <TextView
+            android:id="@+id/pump_spice_five"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="48dp"
+            android:paddingTop="24dp"
+            android:text="@string/pumpkin_spice_recipe_five"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_below="@+id/pump_spice_four"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/dancing"
+            android:layout_above="@+id/pump_spice"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/pump_spice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pumpkin_spice"
+            android:textSize="24dp"
+            android:textColor="@color/white"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
